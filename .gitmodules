@@ -1,0 +1,3 @@
+[submodule "Vold-exFAT"]
+	path = Vold-exFAT
+	url = https://github.com/Jimbo77/Vold-exFAT
